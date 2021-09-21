@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "mentions": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "address": "wss://chat2.strims.gg/ws",
+        "jwt": "token"
+      }
+    }
+  }
+}
